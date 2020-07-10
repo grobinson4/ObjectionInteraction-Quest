@@ -27,4 +27,6 @@ Download Oculus Integration 17.0 from Asset Store and import it.
 ## Author
 Gary D. Robinson [@grobinson__](https://twitter.com/grobinson__)
 
+## License
+MIT
 
