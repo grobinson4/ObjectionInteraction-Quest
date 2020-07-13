@@ -6,6 +6,7 @@ ScriptsOnlyBuild:
     - OculusSampleFramework.DistanceGrabbable
     - OculusSampleFramework.DistanceGrabber
     - OculusSampleFramework.GrabManager
+    - OculusSampleFramework.GrabbableCrosshair
     Oculus.VR.Editor.dll:
     - Assets.Oculus.VR.Editor.OVRPlatformToolSettings
     - OVRConfig
@@ -79,6 +80,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11560}
     - Class: 114
       Script: {instanceID: 11786}
+    - Class: 114
+      Script: {instanceID: 12122}
     - Class: 114
       Script: {instanceID: 12290}
     - Class: 114
